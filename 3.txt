@@ -1,0 +1,18 @@
+</ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="page">
+      <div class="nav-bar" id="footer">
+        <div class="nav-bar-inner padding10">
+          <span class="element">
+            <!-- Thêm thông tin -->
+            2013 &copy; %s - Styled with <a class="fg-color-white" href="http://metroui.org.ua">Metro UI CSS</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

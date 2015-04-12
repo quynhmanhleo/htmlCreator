@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="description" content="HCMUS Students">
+    <!-- Thong tin -->
+    <meta name="author" content="%s">
+    <link href="./static/css/modern.css" rel="stylesheet">
+    <link href="./static/css/modern-responsive.css" rel="stylesheet">
+    <link href="./static/css/site.css" rel="stylesheet">
+
+    <script type="text/javascript" src="./static/javascript/jquery.js"></script>
+    <script type="text/javascript" src="./static/javascript/dropdown.js"></script>
+
+
+    <title>HCMUS Students</title>
+  </head>
+
+  <body class="metrouicss">
+    <!-- Navigation -->
+    <div class="page">
+      <div class="nav-bar" id="header">
+        <div class="nav-bar-inner padding10">
+          <span class="pull-menu"></span>
+          <a href="index.html">
+            <img class="place-left" src="./static/images/logo.png" alt="HCMUS">
+            <span class="element brand">HCMUS Students</span>
+          </a>
+          <div class="divider"></div>
+          <ul class="menu">
+            <li><a href="index.html"><i class="icon-home"></i>Home</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="page">
+      <!-- Header -->
+      <div class="page-header">
+        <div class="page-header-content">
+          <h1>Students</h1>
+        </div>
+      </div>
+      <!-- Content -->
+      <div class="page-region">
+        <div class="page-region-content">
+          <ul class="listview fluid">
