@@ -1,0 +1,105 @@
+.metrouicss .page {
+  width: 980px ;
+  margin: auto;
+  background-color: #fff;
+}
+
+.image-container p {
+  margin-bottom: 0;
+  font-size: 12px;
+  margin-top: 3px;
+  text-align: right;
+}
+
+#personality li {
+  width: 220px;
+  font-size: 
+}
+
+#personality .icon {
+  font-size: 20px;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  top: -8px;
+}
+
+#personality .data {
+  margin-left: 35px;
+}
+
+#personality h3 {
+  color: white;
+}
+
+#personality li ul li {
+  font-size: 12px;
+  width: 100%;
+  height: 20px;
+  padding: 0;
+  margin-bottom: 5px;
+}
+
+#personality li ul li:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+  .metrouicss .page {
+    width: 724px;
+  }
+  .metrouicss .hero-unit > img {
+    zoom: .6;
+  }
+  .metrouicss .browsers-icons img {
+    zoom: .8;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .metrouicss .page {
+    width: 100%;
+  }
+
+  .metrouicss .hero-unit > img {
+    zoom: .6;
+  }
+
+  .metrouicss .modern-ui-logo {
+    width: 24px;
+    height: 24px;
+  }
+  .metrouicss .github-info {
+    margin-top: 5px;
+  }
+
+  .metrouicss a, .metrouicss .link {
+    font-size: 9pt;
+  }
+
+  .metrouicss h3 {
+    line-height: 11px;
+  }
+
+  .metrouicss .no-mobile {
+    display: none;
+  }
+
+  .metrouicss #carousel1 {
+    height: 300px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .metrouicss .hero-unit img {
+    display: none;
+  }
+
+  .metrouicss #jetbrains {
+    display: none;
+  }
+  .metrouicss #brand-name {
+    display: none;
+  }
+}
