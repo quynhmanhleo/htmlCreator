@@ -1,0 +1,8 @@
+</ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="span8">
+                <h2>Friends</h2>
+                <ul class="listview fluid">

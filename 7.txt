@@ -1,0 +1,11 @@
+<li>
+                    <a href="%s.html">
+                      <div class="icon">
+                        <img src="./images/%s_t.jpg" alt="%s">
+                      </div>
+                      <div class="data">
+                        <h4>%s</h4>
+                        <p>%s %d</p>
+                      </div>
+                    </a>
+                  </li>
